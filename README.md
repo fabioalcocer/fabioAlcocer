@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋 My name is Fabio Alcocer
+==============================
 
-<!--
-**fabioAlcocer/fabioAlcocer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer and Content Creator
+--------------------------------------
 
-Here are some ideas to get you started:
+Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, trabajar en equipo y apoyar con mis conocimientos, a los alumnos de OpenBootcamp acelerando su formación en IT. A la par me encuentro culminando la carrera de Analista de Sistemas, y a paralelo conllevo una educación autodidacta, centrando mis intereses en obtener un conocimiento que me permita formarme profesionalmente como Fullstack Software Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Bolivia
+*   🖥️  See my portfolio at [Portfolio](http://https://fabioalcocer.github.io/)
+*   ✉️  You can contact me at [fabioalcocerdev@gmail.com](mailto:fabioalcocerdev@gmail.com)
+*   🚀  I'm currently working on [SNK Magic Videos](http://https://snk-magic-cards.netlify.app/)
+*   🧠  I'm learning React, Redux, NextJS, ChakraUI, NodeJS
