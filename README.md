@@ -16,5 +16,4 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 
 
 [![JavaScript_HTML_CSS_Python_NodeJS_MySQL_MongoDB_ReactJS_Express_SASS](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_NodeJS_MySQL_MongoDB_ReactJS_Express_SASS)](https://pimp-my-readme.webapp.io)
-
 [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/AlcocerSejas)
