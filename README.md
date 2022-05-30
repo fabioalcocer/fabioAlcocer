@@ -11,3 +11,6 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 *   ✉️  You can contact me at [fabioalcocerdev@gmail.com](mailto:fabioalcocerdev@gmail.com)
 *   🚀  I'm currently working on [SNK Magic Videos](http://https://snk-magic-cards.netlify.app/)
 *   🧠  I'm learning React, Redux, NextJS, ChakraUI, NodeJS
+
+
+[![JavaScript_HTML_CSS_Python_NodeJS_MySQL_MongoDB_ReactJS_Express_SASS](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_NodeJS_MySQL_MongoDB_ReactJS_Express_SASS)](https://pimp-my-readme.webapp.io)
