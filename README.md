@@ -11,7 +11,7 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 *   🌍  I'm based in Bolivia
 *   🖥️  See my portfolio at [Portfolio](http://https://fabioalcocer.github.io/)
 *   ✉️  You can contact me at [fabioalcocerdev@gmail.com](mailto:fabioalcocerdev@gmail.com)
-*   🚀  I'm currently working on [SNK Magic Videos](http://https://snk-magic-cards.netlify.app/)
+*   🚀  I'm currently working on [SNK Magic Videos](https://fabioalcocer.github.io/api-magic-snk/index.html)
 *   🧠  I'm learning React, Redux, NextJS, ChakraUI, NodeJS
 
 
