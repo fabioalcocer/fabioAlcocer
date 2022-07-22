@@ -1,6 +1,6 @@
 <!-- [![Fabio Alcocer, I'm Software Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20Software%20Developer&title=Fabio%20Alcocer)](https://pimp-my-readme.webapp.io) -->
 
-Hi 👋 My name is Fabio Alcocer
+Hey there🙋‍♂️, I am Fabio Alcocer
 ==============================
 
 Software Developer and Content Creator
@@ -15,4 +15,6 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 *   🧠  I'm learning React, Redux, NextJS, ChakraUI, NodeJS
 
 
-[![JavaScript_HTML_CSS_Python_NodeJS_MySQL_MongoDB_ReactJS_Express_SASS](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_NodeJS_MySQL_MongoDB_ReactJS_Express_SASS)](https://pimp-my-readme.webapp.io)
+<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
+
+⭐️ From [smaranjitghose](https://github.com/smaranjitghose)
