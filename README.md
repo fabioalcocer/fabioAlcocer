@@ -17,4 +17,3 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 
 <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
 
-⭐️ From [smaranjitghose](https://github.com/smaranjitghose)
