@@ -16,5 +16,6 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 
 
 <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
+
 [comment]: <> (<p align="center"><img width=50% src="https://res.cloudinary.com/daobmfotr/image/upload/v1659550519/my%20videos/bear_gqsizq.gif"></p>)
 
