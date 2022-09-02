@@ -19,6 +19,26 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 
 [comment]: <> (<p align="center"><img width=50% src="https://res.cloudinary.com/daobmfotr/image/upload/v1659550519/my%20videos/bear_gqsizq.gif"></p>)
 
+# Skills
+
+## Programming and Markup Languages
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,js,ts,c,cpp,cs,html,css&perline=5)](https://skillicons.dev)
+
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,fastapi,bootstrap,discord&perline=5)](https://skillicons.dev)
+
+## Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,dynamodb,mongodb&perline=5)](https://skillicons.dev)
+
+## Servers and Cloud Architectures
+[![My Skills](https://skillicons.dev/icons?i=aws,nginx&perline=5)](https://skillicons.dev)
+
+## IDEs and Tools
+[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,visualstudio,vscode,androidstudio,git,github,gitlab,gradle,maven,jenkins,docker,kubernetes&perline=5)](https://skillicons.dev)
+
+## Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi&perline=5)](https://skillicons.dev)
+
 
 # GitHub Stats
 [![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioalcocer&show_icons=true&theme=tokyonight)](https://github.com/fabioalcocer/github-readme-stats)
