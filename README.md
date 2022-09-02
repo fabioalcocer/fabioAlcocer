@@ -25,7 +25,7 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,sass,tailwind&perline=6)](https://skillicons.dev)
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,fastapi,bootstrap,discord&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,py,javascript&perline=3)](https://skillicons.dev)
 
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,dynamodb,mongodb&perline=5)](https://skillicons.dev)
