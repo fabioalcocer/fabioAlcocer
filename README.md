@@ -19,3 +19,11 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 
 [comment]: <> (<p align="center"><img width=50% src="https://res.cloudinary.com/daobmfotr/image/upload/v1659550519/my%20videos/bear_gqsizq.gif"></p>)
 
+
+# GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gescof&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gescof&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gescof&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
