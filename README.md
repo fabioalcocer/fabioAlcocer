@@ -28,13 +28,13 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 [![My Skills](https://skillicons.dev/icons?i=dart,py,javascript,ts&perline=3)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=flutter,electron,nodejs,express,react,nextjs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,electron,nodejs,express,react,nextjs&perline=3)](https://skillicons.dev)
 
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=5)](https://skillicons.dev)
 
 ## IDEs and Tools
-[![My Skills](https://skillicons.dev/icons?i=vite,git,github,visualstudio,vscode,docker&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,git,github,visualstudio,vscode,docker&perline=3)](https://skillicons.dev)
 
 
 # GitHub Stats
