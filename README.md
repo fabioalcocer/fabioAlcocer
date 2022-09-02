@@ -22,10 +22,10 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 # Skills
 
 ## Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,sass,tailwind,styledcomponents,emotion,materialui&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,sass,tailwind,styledcomponents,materialui&perline=5)](https://skillicons.dev)
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=dart,py,javascript,ts&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,py,javascript,ts&perline=4)](https://skillicons.dev)
 
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=flutter,electron,nodejs,express,react,nextjs&perline=3)](https://skillicons.dev)
