@@ -34,7 +34,7 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=5)](https://skillicons.dev)
 
 ## IDEs and Tools
-[![My Skills](https://skillicons.dev/icons?i=vite,visualstudio,vscode,androidstudio,git,github,docker&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,git,github,visualstudio,vscode,docker&perline=5)](https://skillicons.dev)
 
 
 # GitHub Stats
