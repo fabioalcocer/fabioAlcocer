@@ -22,19 +22,19 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 # Skills
 
 ## Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,sass,tailwind&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,sass,tailwind,styledcomponents,emotion,materialui&perline=4)](https://skillicons.dev)
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=dart,py,javascript&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,py,javascript,ts&perline=3)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,dynamodb,mongodb&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,electron,nodejs,express,react,nextjs&perline=5)](https://skillicons.dev)
 
 ## Databases
-[![My Skills](https://skillicons.dev/icons?i=aws,nginx&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=5)](https://skillicons.dev)
 
 ## IDEs and Tools
-[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,visualstudio,vscode,androidstudio,git,github,gitlab,gradle,maven,jenkins,docker,kubernetes&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,visualstudio,vscode,androidstudio,git,github,docker&perline=5)](https://skillicons.dev)
 
 
 # GitHub Stats
