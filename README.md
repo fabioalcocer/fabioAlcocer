@@ -25,5 +25,5 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabioalcocer&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioalcocer&layout=compact&theme=dark)](https://github.com/fabioalcocer/github-readme-stats)
+[![Fabio stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabioalcocer)](https://github.com/fabioalcocer/github-readme-stats)
 
