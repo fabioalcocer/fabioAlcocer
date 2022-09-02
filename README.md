@@ -21,23 +21,20 @@ Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, 
 
 # Skills
 
-## Programming and Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,js,ts,c,cpp,cs,html,css&perline=5)](https://skillicons.dev)
+## Markup Languages
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,figma,html,sass,tailwind&perline=3)](https://skillicons.dev)
 
-## Frameworks
+## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,fastapi,bootstrap,discord&perline=5)](https://skillicons.dev)
 
-## Databases
+## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,dynamodb,mongodb&perline=5)](https://skillicons.dev)
 
-## Servers and Cloud Architectures
+## Databases
 [![My Skills](https://skillicons.dev/icons?i=aws,nginx&perline=5)](https://skillicons.dev)
 
 ## IDEs and Tools
 [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,visualstudio,vscode,androidstudio,git,github,gitlab,gradle,maven,jenkins,docker,kubernetes&perline=5)](https://skillicons.dev)
-
-## Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi&perline=5)](https://skillicons.dev)
 
 
 # GitHub Stats
