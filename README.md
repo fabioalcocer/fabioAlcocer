@@ -1,7 +1,6 @@
 <!-- [![Fabio Alcocer, I'm Software Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20Software%20Developer&title=Fabio%20Alcocer)](https://pimp-my-readme.webapp.io) -->
 
-Hey there🙋‍♂️, I am Fabio Alcocer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&pause=1000&color=F7F7F7&width=435&lines=Hi!+I'm+Fabio+Alcocer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&pause=1000&color=F7F7F7&width=435&lines=Hey+there%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2CI'm+Fabio+Alcocer)](https://git.io/typing-svg)
 ==============================
 
 Software Developer and Content Creator
