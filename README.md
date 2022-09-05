@@ -6,7 +6,9 @@
 Software Developer and Content Creator
 --------------------------------------
 
-Hola soy Fabio, en mi puesto actual hago uso de mis Soft Skills para comunicar, trabajar en equipo y apoyar con mis conocimientos, a los alumnos de OpenBootcamp acelerando su formación en IT. A la par me encuentro culminando la carrera de Analista de Sistemas, y a paralelo conllevo una educación autodidacta, centrando mis intereses en obtener un conocimiento que me permita formarme profesionalmente como Fullstack Software Developer.
+Hi I'm Fabio, in my current position I use my Soft Skills to communicate, work in a team and support with my knowledge, the OpenBootcamp students accelerating their IT training. At the same time I am finishing my career as a Systems Analyst, and in parallel I have a self-taught education, focusing my interests in obtaining knowledge that allows me to train professionally as a Fullstack Software Developer.
+
+Translated with www.DeepL.com/Translator (free version)
 
 *   🌍  I'm based in Bolivia
 *   🖥️  See my portfolio at [Portfolio](http://https://fabioalcocer.github.io/)
