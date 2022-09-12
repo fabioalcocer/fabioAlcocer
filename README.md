@@ -12,8 +12,7 @@ Hi I'm Fabio, in my current position I use my Soft Skills to communicate, work i
 *   🖥️  See my portfolio at [Portfolio](http://https://fabioalcocer.github.io/)
 *   ✉️  You can contact me at [fabioalcocerdev@gmail.com](mailto:fabioalcocerdev@gmail.com)
 *   🚀  I'm currently working on [E-Commerce](https://github.com/fabioalcocer/e-commerce-x)
-*   🧠  I'm learning React, Redux, NextJS, ChakraUI, NodeJS
-
+*   🧠  I'm learning Redux Toolkit, NextJS, Express
 
 <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
 
