@@ -37,7 +37,7 @@ Hi I'm Fabio, in my current position I use my Soft Skills to communicate, work i
 
 
 # GitHub Stats
-[comment]: <> ([![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioalcocer&show_icons=true&theme=tokyonight)](https://github.com/fabioalcocer/github-readme-stats))
+[comment]: [![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioalcocer&show_icons=true&theme=tokyonight)](https://github.com/fabioalcocer/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabioalcocer&theme=radical)](https://git.io/streak-stats)
 
