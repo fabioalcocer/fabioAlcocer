@@ -6,7 +6,11 @@
 Software Developer and Content Creator
 --------------------------------------
 
-Hi I'm Fabio, in my current position I use my Soft Skills to communicate, work in a team and support with my knowledge, the OpenBootcamp students accelerating their IT training. At the same time I am finishing my career as a Systems Analyst, and in parallel I have a self-taught education, focusing my interests in obtaining knowledge that allows me to train professionally as a Fullstack Software Developer.
+Who I am? 👨‍💻 
+Hi I'm Fabio, in my previous position I used my knowledge in software development to mentor and lead projects in different dynamics and thus enhance the growth of students. On the other hand, I use my experience creating content to build and manage the online community and manage the identity and branding of companies. 
+
+What makes me stand out? 🙎‍♂️
+My great communication and teamwork skills make me an asset to any organization. I am motivated by the desire to have a positive impact and contribute to the success of the company.
 
 *   🖥️  See my portfolio at [Portfolio](https://fabioalcocer.vercel.app/)
 *   ✉️  You can contact me at [fabioalcocerdev@gmail.com](mailto:fabioalcocerdev@gmail.com)
