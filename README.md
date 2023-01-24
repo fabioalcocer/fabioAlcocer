@@ -6,10 +6,10 @@
 Software Developer and Content Creator
 --------------------------------------
 
-Who I am? 👨‍💻 
+Who I am? 👨‍💻 <br/>
 Hi I'm Fabio, in my previous position I used my knowledge in software development to mentor and lead projects in different dynamics and thus enhance the growth of students. On the other hand, I use my experience creating content to build and manage the online community and manage the identity and branding of companies. 
 
-What makes me stand out? 🙎‍♂️
+What makes me stand out? 🙎‍♂️ <br/>
 My great communication and teamwork skills make me an asset to any organization. I am motivated by the desire to have a positive impact and contribute to the success of the company.
 
 *   🖥️  See my portfolio at [Portfolio](https://fabioalcocer.vercel.app/)
