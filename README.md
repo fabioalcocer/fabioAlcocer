@@ -30,7 +30,7 @@ My great communication and teamwork skills make me an asset to any organization.
 [![My Skills](https://skillicons.dev/icons?i=dart,py,javascript,ts&perline=4)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=django,nodejs,express,react,nextjs,flutter,electron&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,django,flutter,electron&perline=4)](https://skillicons.dev)
 
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=5)](https://skillicons.dev)
