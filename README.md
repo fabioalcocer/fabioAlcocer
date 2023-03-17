@@ -5,6 +5,7 @@
 
 Software Developer and Content Creator
 --------------------------------------
+<img align="right" style="margin-left:20px" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 Who I am? 👨‍💻 <br/>
 Hi I'm Fabio, in my previous position I used my knowledge in software development to mentor and lead projects in different dynamics and thus enhance the growth of students. On the other hand, I use my experience creating content to build and manage the online community and manage the identity and branding of companies. 
@@ -14,8 +15,8 @@ My great communication and teamwork skills make me an asset to any organization.
 
 *   🖥️  See my portfolio at [Portfolio](https://fabioalcocer.vercel.app/)
 *   ✉️  You can contact me at [fabioalcocerdev@gmail.com](mailto:fabioalcocerdev@gmail.com)
-*   🚀  I'm currently working on [E-Commerce](https://github.com/fabioalcocer/e-commerce-x)
-*   🧠  I'm learning Redux Toolkit, E2E, GitHub Actions
+*   🚀  I'm currently working on [Rawg APP](https://github.com/fabioalcocer/videogames-library-app)
+*   🧠  I'm learning Redux Toolkit, E2E, GitHub Actions and TDD
 
 <!-- <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p> -->
 
