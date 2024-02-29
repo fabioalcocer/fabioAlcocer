@@ -15,7 +15,7 @@ My great communication and teamwork skills make me an asset to any organization.
 
 *   🖥️  See my portfolio at [Portfolio](https://fabioalcocer.vercel.app/)
 *   ✉️  You can contact me at [fabioalcocerdev@gmail.com](mailto:fabioalcocerdev@gmail.com)
-*   🚀  I'm currently working on [Rawg APP](https://github.com/fabioalcocer/videogames-library-app)
+*   🚀  I'm currently working on [TEMPLO APP](https://github.com/fabioalcocer/templo-app)
 *   🧠  I'm learning Redux Toolkit, E2E, GitHub Actions and TDD
 
 <!-- <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p> -->
